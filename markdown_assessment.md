@@ -1,5 +1,6 @@
 # Grand Opening: The Byte Bites Food Truck
 ![Byte Bites Coffee](https://fastly.picsum.photos/id/431/600/300.jpg?hmac=PgANs2KJcy1a1d1JZwkdwe8H6KnvKKfQ5TPC6aEwAvA)
+
 Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! We serve fresh food in the morning and write code at night.
 
 ---
@@ -11,12 +12,12 @@ Welcome to **Byte Bites**, the first food truck run *entirely* by student coders
 - Lunch
   - chopped cheese
   - veggie tacos
-  -*fresh lemonade*
+  - *fresh lemonade*
 
  ---
 
-# How Our Ordering App Works
-Every Order is added up by our app. We use the `total` variable to keep track of the price:
+## How Our Ordering App Works
+Every order is added up by our app. We use the `total` variable to keep track of the price:
 ``` let total = 0;
 total = total +8;
 
@@ -29,8 +30,22 @@ if (total >10) {
 
 ---
 
+## What Customers Are Saying
+>"Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*"
 
+---
 
+## Find Us Online
+Follow our daily location on [Instagram](https://www.instagram.com/?hl=en), or read our reviews on [Yelp](https://www.yelp.com/nyc)
+
+Want to build an app like ours? Start learning here:
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+---
+
+`git push origin main`-the command we run everytime we add a new item to our menu! 
 
 
 
