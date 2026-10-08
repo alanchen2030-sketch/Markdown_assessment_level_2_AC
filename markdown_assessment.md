@@ -15,19 +15,7 @@ Welcome to **Byte Bites**, the first food truck run *entirely* by student coders
 
  ---
 
-# How Our Ordering App Works
-Every Order is added up by our app. We use the `total` variable to keep track of the price:
-``` let total = 0;
-total = total +8;
 
-if (total >10) {
-    console.log("You get a free cookie!");
-} else {
-    console.log("Add $2 more for a free cookie!")
-}
-```
-
----
 
 
 
